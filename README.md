@@ -1,3 +1,27 @@
+# General info?
+This project was the final project i have worked on with 4 students from Re:Coded Front-End Web Development Bootcamp that i have attended in 2020.
+The project was designed simply to help people help each other. we all know that people always will have extra staff that they don’t need and the same people will also always have staff that they need so this project helps them to exchange these staff and cover those needs.
+
+# Technologies used
+- JavaScript (React)
+- HTML
+- CSS
+- Bootstrap
+- i18next for Arabic and Turkish translation from English language
+- Firebase for storing user data
+- Figma for website draft design
+- Jest for code test
+
+# Table of contents
+- Homepage
+- Posts
+- Add post
+- About
+- Contact
+
+# Project status
+Completed
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
